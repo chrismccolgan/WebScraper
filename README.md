@@ -1,5 +1,7 @@
 # WebScraper
 
+<img src="./screenshot1.png" />
+
 ## Algorithm
 
 - CraigsListCity = ask user for input
