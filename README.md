@@ -1,6 +1,6 @@
 # WebScraper
 
-<img src="./screenshot1.png" />
+<img src="./screenshot.png" />
 
 ## Algorithm
 
